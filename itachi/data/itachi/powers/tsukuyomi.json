@@ -1,6 +1,6 @@
 {
     "name": "Tsukuyomi",
-    "description": "DESCRIPTION ABOUT TSUKUYOMI",
+    "description": "You can send every entity to the tsukuyomi realm for 10 seconds. They won't be stabbed because I am lazy",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:and",
