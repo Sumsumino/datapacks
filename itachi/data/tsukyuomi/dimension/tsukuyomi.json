@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:overworld",
+  "type": "minecraft:the_nether",
   "generator": {
     "type": "minecraft:flat",
     "settings": {
