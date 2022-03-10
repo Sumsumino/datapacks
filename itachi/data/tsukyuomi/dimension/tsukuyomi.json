@@ -8,7 +8,7 @@
       "features": false,
       "layers": [
         {
-          "block": "minecraft:black_glazed_terracotta",
+          "block": "minecraft:bedrock",
           "height": 1
         }
       ],

@@ -7,7 +7,7 @@
         "actions": [
             {
                 "type": "origins:execute_command",
-                "command": "execute if entity @e[tag=genjedded] run ",
+                "command": "execute if entity @e[tag=genjedded] run execute in ",
                 "permission_level": 4
             },
             {
