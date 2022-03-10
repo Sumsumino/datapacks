@@ -1,3 +1,3 @@
 say hi
-execute as @e[tag=BringTsukud] in minecraft:overworld at @s run tp @e[tag=genjedded] @s
+tp @e[tag=genjedded] @e[tag=BringTsukud,limit=1]
 tag @e[tag=genjedded] remove genjedded
