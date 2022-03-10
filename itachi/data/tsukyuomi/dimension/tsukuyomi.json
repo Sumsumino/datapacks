@@ -6,7 +6,12 @@
       "biome": "minecraft:crimson_forest",
       "lakes": false,
       "features": false,
-      "layers": [],
+      "layers": [
+        {
+          "block": "minecraft:black_glazed_terracotta",
+          "height": 1
+        }
+      ],
       "structures": {
         "structures": {}
       }
