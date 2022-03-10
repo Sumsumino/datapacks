@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"terroristpack:boom",
+		"terroristpack:jump"
+	],
+	"icon": "minecraft:tnt",
+	"order": 10,
+	"impact": 0,
+	"name": "Terrorist",
+	"description": "boom boom",
+	
+	"type": "origins:modify_falling",
+	"velocity": 1.0,
+	"take_fall_damage": false,
+	"condition": {
+		"type": "powers:jump"
+	}
+	
+}
