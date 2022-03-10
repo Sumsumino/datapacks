@@ -1,3 +1,3 @@
 kill @e[tag=TsukoDet]
-execute as @e[tag=genjedded] at @s in tsukyuomi:tsukyuomi run tp @s ~ ~ ~
+execute in tsukyuomi:tsukyuomi run tp @s ~ -63 ~
 tag @e[tag=genjedded] remove genjedded
