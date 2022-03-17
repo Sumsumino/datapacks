@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"itachi:on_wake_up",
+		"itachi:refillchakra",
+		"itachi:itachi_ind",
+		"itachi:tsukuyomi",
+		"itachi:amaterasu"
+	],
+	"icon": "minecraft:black_glazed_terracotta",	
+	"order": 16,
+	"impact": 0,
+    "name": "Itachi",
+    "description": "Has intimidating eyes"
+}
